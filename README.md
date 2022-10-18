@@ -3,4 +3,10 @@ Word count takes csv file as input and generate word count of the particular col
 
 Install wordcloud library using the below command
 
-`pip install wordcloud`
+```
+
+pip install wordcloud
+
+```
+
+
